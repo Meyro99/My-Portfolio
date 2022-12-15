@@ -52,7 +52,7 @@ img {
 .nav {
   position: absolute;
   top: 50px;
-  right: 100px;
+  right: 50px;
   display: flex;
 }
 li {
@@ -71,6 +71,7 @@ button {
   text-decoration: none;
   text-transform: uppercase;
   margin: auto;
+  width: auto;
   padding: 5px;
   background: none;
 }
@@ -175,7 +176,7 @@ textarea {
 }
 .s {
   border: 1px solid;
-  width: 10%;
+  width: auto;
   background: #fff;
 }
 .s:hover {
